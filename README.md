@@ -22,13 +22,13 @@ Welcome to the **React Counter App**! This simple app allows you to increase or 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/yourprojectname.git
+    git clone https://github.com/AryaBandhu/React_counter_app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd yourprojectname
+    cd React_counter_app
     ```
 
 3. Install dependencies:
